@@ -42,7 +42,7 @@ STRIPE_SECRET_KEY="your_stripe_secret_key"
 ```sh
 nodemon server.js
 ```
-Backend will run on: **http://localhost:5000**
+Backend will run on: **http://localhost:4000**
 
 ---
 
