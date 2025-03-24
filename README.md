@@ -8,7 +8,7 @@ This is a full-stack e-commerce website for clothes  built using **Vite (React) 
 ## 📥 Cloning the Repository
 To pull the project from GitHub, run:
 ```sh
-git clone https://github.com/your-username/e-commerce-website.git
+git clone https://github.com/msaisathvik/e-commerce-website.git
 cd e-commerce-website
 ```
 
@@ -57,13 +57,7 @@ cd ../frontend
 npm install
 ```
 
-### 3️⃣ Configure Environment Variables
-Create a `.env` file in the `frontend` directory and add:
-```env
-VITE_API_URL=http://localhost:4000
-```
-
-### 4️⃣ Start the Frontend Server
+### 3️⃣ Start the Frontend Server
 ```sh
 npm run dev
 ```
